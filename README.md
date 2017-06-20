@@ -3,14 +3,14 @@
 
 * _French : Envies Salon est une application open-source, permettant aux particuliers de réserver simplement/rapidement une séance chez son coiffeur/salon de manucure, soin etc ... via une application sans frais, le coiffeur de son côté a accès aux profils de ses utilisateurs, et l'historique des précédentes réservations, il peut ainsi savoir en avance ce que ses clients souhaitent et préparer le nécessaire avant qu'ils arrivent pour but de fidéliser et satisfaire ses clients._
 
-## We have to choose the CSS Framework :
+## We have to choose the CSS Framework between :
 * [Bootstrap 3/4?](http://getbootstrap.com/)
 * [Material Design](https://material.io/guidelines/)
 * [Foundation](http://foundation.zurb.com/)
 * [Bulma](http://bulma.io/)
 * [Vuetify](https://vuetifyjs.com/)
 
-## We have to choose the Javascript Framework :
+## We have to choose the Javascript Framework between :
 * [Angular 2](https://angular.io/)
 * [ReactJS](https://facebook.github.io/react/)
 * [Vue](https://vuejs.org/)

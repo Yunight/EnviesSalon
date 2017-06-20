@@ -5,7 +5,7 @@
 
 ## We have to choose the CSS Framework :
 * [Bootstrap 3/4?](http://getbootstrap.com/)
-* [Materialize](http://materializecss.com/)
+* [Material Design](https://material.io/guidelines/)
 * [Foundation](http://foundation.zurb.com/)
 * [Bulma](http://bulma.io/)
 * [Vuetify](https://vuetifyjs.com/)

@@ -25,7 +25,7 @@
 ## History
 #### The project started on : 20th June 2017
 
-## Credits
+## Contributors
 TODO
 
 

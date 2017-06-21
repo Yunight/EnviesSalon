@@ -3,7 +3,7 @@
 
 * _French : Envies Salon est une application open-source, permettant aux particuliers de réserver simplement/rapidement une séance chez son coiffeur/salon de manucure, soin etc ... via une application sans frais, le coiffeur de son côté a accès aux profils de ses utilisateurs, et l'historique des précédentes réservations, il peut ainsi savoir en avance ce que ses clients souhaitent et préparer le nécessaire avant qu'ils arrivent pour but de fidéliser et satisfaire ses clients._
 
-* _Chinese : 是一个免费的软件能让大家很容易的约比如理发店或者牙医 等等，这样能让开店家准备好一切服务等待贵客，因为开店家有客人的信息和以前历史，能让他直接理解客人想要的服务和他的习惯._
+* _Chinese : 是一个免费的软件(电脑/手机)能让大家很容易的约比如理发店或者牙医 等等，这样能让开店家准备好一切服务等待贵客，因为开店家有客人的信息和以前历史，能让他直接理解客人想要的服务和他的习惯._
 
 ## We have to choose the CSS Framework between :
 * [Bootstrap 3/4?](http://getbootstrap.com/)

@@ -2,7 +2,7 @@ body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 .header-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('https://cdn.theconversation.com/files/121656/wide_article/width1356x668/7y7kd68t-1462762406.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.29),rgba(0, 0, 0, 0.59)),url('https://cdn.theconversation.com/files/121656/wide_article/width1356x668/7y7kd68t-1462762406.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }

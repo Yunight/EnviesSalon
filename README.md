@@ -19,7 +19,7 @@
 
 ## Contribution
 
-Join us on : [![Foo](https://a.slack-edge.com/66f9/img/slack_hash_128.png)](https://join.slack.com/enviessalon/shared_invite/MjAxNDU5Mzc1Njg0LTE0OTgwNjU4NTAtYjlhZmI2MDY3Yw)
+### Join us on : [![Foo](https://a.slack-edge.com/66f9/img/slack_hash_128.png)](https://join.slack.com/enviessalon/shared_invite/MjAxNDU5Mzc1Njg0LTE0OTgwNjU4NTAtYjlhZmI2MDY3Yw)
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`

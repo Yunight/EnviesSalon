@@ -12,7 +12,7 @@
 * [Bootstrap 3/4?](http://getbootstrap.com/)
 * [Material Design](https://material.io/guidelines/)
 * [Foundation](http://foundation.zurb.com/)
-* [Bulma](http://bulma.io/)
+* *[Bulma]*(http://bulma.io/) : Promising framework but lacking features
 * [Vuetify](https://vuetifyjs.com/)
 
 ## We have to choose the Javascript Framework between :

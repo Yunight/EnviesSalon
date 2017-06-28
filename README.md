@@ -1,4 +1,4 @@
-# Envies Salon [Project Name]
+# Envies Salon [Project Name] App Name : YuSalon
 
 
 [![Foo](https://raw.githubusercontent.com/Yunight/EnviesSalon/master/img/logo.png)](https://join.slack.com/enviessalon/shared_invite/MjAxNDU5Mzc1Njg0LTE0OTgwNjU4NTAtYjlhZmI2MDY3Yw)

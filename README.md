@@ -16,7 +16,7 @@
 * [Vuetify](https://vuetifyjs.com/)
 
 ## We have to choose the Javascript Framework between :
-* [Angular 2](https://angular.io/)
+* [Angular 2](https://angular.io/) - [CLI](https://cli.angular.io/)
 * [ReactJS](https://facebook.github.io/react/)
 * [Vue](https://vuejs.org/)
 
